@@ -124,7 +124,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## OnPause Executed:
-<img src="https://github.com/user-attachments/assets/148997cf-afb3-4480-9750-24e5717678b6" width="400">
+<img width="554" height="913" alt="image" src="https://github.com/user-attachments/assets/f7bf2328-15d6-4b86-9ab2-d7fb343b33eb" />
+
 
 ## OnResume Executed:
 <img width="577" height="909" alt="image" src="https://github.com/user-attachments/assets/181b31f6-c01a-4384-b6a8-a9d094e49ee1" />
@@ -135,7 +136,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## OnStart Executed:
-<img src="https://github.com/user-attachments/assets/df5260af-6949-4593-9ffe-0677e2bc5c46" width="400">
+<img width="556" height="920" alt="image" src="https://github.com/user-attachments/assets/6c4deb8f-318f-47c4-a96f-c5ee01baee2c" />
+
 
 
 
